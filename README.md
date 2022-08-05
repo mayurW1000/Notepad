@@ -9,7 +9,7 @@ File Menu
 Edit Menu
 ![Screenshot (1657)](https://user-images.githubusercontent.com/110468237/183024713-677155d8-100c-456c-812e-f3458b8abdf3.png)
 
-About Menu
+Help Menu
 ![Screenshot (1659)](https://user-images.githubusercontent.com/110468237/183025054-bb0ba7e9-413a-4738-9726-02719ac850cd.png)
 
 
